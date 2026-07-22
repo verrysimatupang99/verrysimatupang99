@@ -7,10 +7,10 @@
   </p>
 
   <p align="center">
-    <a href="https://verrysimatupang.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-verrysimatupang.dev-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio Site"></a>
-    <a href="https://saweria.co/sijuling"><img src="https://img.shields.io/badge/☕_Support_me-Saweria-orange?style=for-the-badge&logo=coffee" alt="Saweria"></a>
-    <a href="https://www.npmjs.com/package/codex-dev-mcp-suite"><img src="https://img.shields.io/npm/v/codex-dev-mcp-suite?style=for-the-badge&color=58a6ff&logo=npm" alt="NPM Version"></a>
-    <a href="https://github.com/verrysimatupang99"><img src="https://img.shields.io/github/followers/verrysimatupang99?style=for-the-badge&color=238636&logo=github" alt="GitHub Followers"></a>
+    <a href="https://verrysimatupang.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-verrysimatupang.dev-00f0ff?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=black" alt="Portfolio Site"></a>
+    <a href="https://saweria.co/sijuling"><img src="https://img.shields.io/badge/☕_Support_me-Saweria-orange?style=for-the-badge&amp;logo=coffee" alt="Saweria"></a>
+    <a href="https://www.npmjs.com/package/codex-dev-mcp-suite"><img src="https://img.shields.io/npm/v/codex-dev-mcp-suite?style=for-the-badge&amp;color=58a6ff&amp;logo=npm" alt="NPM Version"></a>
+    <a href="https://github.com/verrysimatupang99"><img src="https://img.shields.io/github/followers/verrysimatupang99?style=for-the-badge&amp;color=238636&amp;logo=github" alt="GitHub Followers"></a>
   </p>
 </div>
 
@@ -32,7 +32,7 @@
       <h3 align="center">🧠 codex-dev-mcp-suite</h3>
       <p align="center">
         <a href="https://github.com/verrysimatupang99/codex-dev-mcp-suite">
-          <img src="https://img.shields.io/badge/v3.1.1-Autonomous_Agent_OS-blue?style=flat-square&logo=node.js" alt="v3.1.1">
+          <img src="https://img.shields.io/badge/v3.1.1-Autonomous_Agent_OS-blue?style=flat-square&amp;logo=node.js" alt="v3.1.1">
         </a>
       </p>
       <p>Local-first Model Context Protocol (MCP) suite for AI agents (Antigravity, Hermes, Claude Code, Cursor, Codex). Equips agents with persistent memory, anti-compaction handoffs, git-safe checkpoints, and 3D Knowledge Graph dashboard.</p>
@@ -41,7 +41,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📱 SELAMAT & CampIn Apps</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/UI/UX-Figma_Design-FF7262?style=flat-square&logo=figma" alt="UI/UX Figma">
+        <img src="https://img.shields.io/badge/UI%2FUX-Figma_Design-FF7262?style=flat-square&amp;logo=figma" alt="UI/UX Figma">
       </p>
       <p>Modern mobile application UI/UX designs focused on user engagement, outdoor activity tracking, and sleek interface aesthetics.</p>
       <p><b>Tech:</b> Figma, System Design, Mobile UI/UX</p>
@@ -51,7 +51,7 @@
     <td width="50%" valign="top">
       <h3 align="center">⚡ RouterOpti Application</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/System-Optimization-00f0ff?style=flat-square&logo=figma" alt="RouterOpti">
+        <img src="https://img.shields.io/badge/System-Optimization-00F0FF?style=flat-square&amp;logo=figma" alt="RouterOpti">
       </p>
       <p>Router optimization application featuring an intuitive interface and high-performance system design architecture.</p>
       <p><b>Tech:</b> System Design, Performance UI/UX</p>
@@ -59,9 +59,9 @@
     <td width="50%" valign="top">
       <h3 align="center">🎨 Brand & Graphic Design</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Winner-2024_Dept_Jacket-gold?style=flat-square" alt="Winner 2024">
+        <img src="https://img.shields.io/badge/Winner-2024_Jacket_Design-gold?style=flat-square&amp;logo=adobephotoshop" alt="Winner 2024">
       </p>
-      <p>Winner of the 2024 Informatics Department Jacket Design Competition. Created 50+ visual branding assets and managed high-impact social media media campaigns (62K+ reach).</p>
+      <p>Winner of the 2024 Informatics Department Jacket Design Competition. Created 50+ visual branding assets and managed high-impact social media campaigns (62K+ reach).</p>
       <p><b>Tech:</b> Photoshop, Canva Pro, Brand Identity</p>
     </td>
   </tr>
@@ -73,24 +73,24 @@
 
 <p align="center">
   <!-- Languages & Engineering -->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
   <br />
   <!-- UI/UX & Design -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&amp;logo=adobephotoshop&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logo=webgl&amp;logoColor=white" />
   <br />
   <!-- Infra & Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" />
 </p>
 
 ---
@@ -139,7 +139,7 @@ Jika karya open-source & desain saya bermanfaat untuk Anda, pertimbangkan donasi
 
 <p align="center">
   <a href="https://saweria.co/sijuling">
-    <img src="https://img.shields.io/badge/Saweria-sijuling-FF813F?style=for-the-badge&logo=saweria&logoColor=white" alt="Saweria Donasi">
+    <img src="https://img.shields.io/badge/Saweria-sijuling-FF813F?style=for-the-badge&amp;logo=saweria&amp;logoColor=white" alt="Saweria Donasi">
   </a>
 </p>
 
